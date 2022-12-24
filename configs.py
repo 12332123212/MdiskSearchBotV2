@@ -5,16 +5,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
+    API_ID = int(os.getenv("API_ID", "23098568"))
+    API_HASH = os.getenv("API_HASH", "cb7098aa919c29da3e5f9af0f9086dd7")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5889684885:AAE7NqXN6uU7d8PIFDGy64KolSK5KKsaEpY")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "movie_searchengine_bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQAiv_1DoPO9diQSRA5ogmmv0RV0sTQ_fb1pkkA7XdWXbeUrOTi5sLOMBkPNAzfngvJDx7bukaLmvW2Eidi1nhHebFj1DJhBtkpKSi1Geui_Eqndu6WDX6uXdFNQF43pAN8bn6cCV40LR9KHKkbrAsnjL-Q4AJwVg5EyeC8MEacl4Ie7iXVEadkFIPjWp4SdQU9CClPkWaEOsnPq2NAs82KEUlm2KI00W-vy8IdIMOLbBJgO_v70lf-3CfDIUA5k8lGncEoEHjodVY1a9ysM_wvNPzOnIZShxOx00U27dSWigpep9vDa_h0ndHVssKbpkLSG9aclBXK2znAB3m4942xeAAAAATTv5LUA")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001692955123")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "movie_searchengine_bot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5183104181"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "SHOKDHAR12")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "1001862422678")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
